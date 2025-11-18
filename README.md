@@ -33,3 +33,9 @@ python sentiment_analyzer.py
 😞 Sentiment Negatif: 1 (50.0%)
 
 Dibuat dengan ❤️ untuk membantu UMKM Indonesia
+
+- "sentiment analysis Indonesia"
+- "review produk marketplace" 
+- "analisis review Tokopedia"
+- "sentiment analyzer Bahasa Indonesia"
+- "UMKM market research"
