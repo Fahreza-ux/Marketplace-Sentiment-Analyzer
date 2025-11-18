@@ -1,3 +1,9 @@
+## 🎯 Projects Lainnya
+
+### 🤖 AI & Machine Learning
+- [AI Harga Kendaraan](https://github.com/Fahreza-ux/AI-Harga-Kendaraan) - Machine Learning prediksi harga kendaraan
+- [Marketplace Sentiment Analyzer](https://github.com/Fahreza-ux/Marketplace-Sentiment-Analyzer) - AI analisis review produk
+
 # Marketplace-Sentiment-Analyzer
 # 🛍️ Marketplace Sentiment Analyzer
 
